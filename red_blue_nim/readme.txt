@@ -1,5 +1,3 @@
-Name : Appala Suneel Varri
-UTA ID : 1002111813
 Programming language : Python 3.11.1
 
 
