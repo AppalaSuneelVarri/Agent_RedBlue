@@ -22,10 +22,14 @@ Getting the sum of total score and also the difference in scores would give us t
 
 Code structure:
 
-We have defined the evaluation function for returning the utility value of the player
+Defined the evaluation function for returning the utility value of the player
 Defined the min-max function with alpha-beta pruning and returning the utility value and best move
 Later, we define the initial game state and also defined the steps to be taken for human and computer
 Later we calculated the scores and also determined the winner and display the score.
+•	Developed a custom red-blue nim game where players take turns removing marbles from two piles. 
+•	The computer opponent utilizes a minimax algorithm with alpha-beta pruning to determine optimal moves, efficiently searching through potential game states based on a specified search depth. 
+•	The game loop facilitates interaction between human and computer players, with command-line input and validation for moves. Additionally, command-line arguments allow customization of initial marble counts, starting player, and search depth.
+
 
 
 TO RUN THE SCRIPT:
